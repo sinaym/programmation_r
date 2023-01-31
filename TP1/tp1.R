@@ -45,5 +45,6 @@ brutToNet3= function(salaire_brut,situation,taux=7.5,temps=100){
 
 brutToNet3(3000,"cadre",-3,60)
 brutToNet3(3000,"cadre")
+brutToNet3(3000,"patron")
 
 
